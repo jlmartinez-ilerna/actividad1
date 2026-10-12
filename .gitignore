@@ -1,0 +1,21 @@
+# Dependencias de Node.js (se regeneran con npm install)
+node_modules/
+
+# Variables de entorno con contraseñas y claves
+.env
+.env.*
+
+# Carpetas de compilación
+dist/
+build/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Registros (logs)
+*.log
+
+# Configuración de editores
+.vscode/
+.idea/
